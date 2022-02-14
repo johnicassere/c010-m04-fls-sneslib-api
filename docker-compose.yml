@@ -1,0 +1,17 @@
+version: "3.8"
+services:
+  database:
+    image: postgres
+    ports:
+      - 5432:5432
+    container_name: sneslib-db
+    volumes:
+      - sneslib-db-disk:/var/lib/postgresql/data
+    environment:
+      POSTGRES_DB: sneslib
+      POSTGRES_USER: sneslib
+      POSTGRES_PASSWORD: sneslib
+      TZ: 'GMT-3'
+      PGTZ: 'GMT-3'
+volumes:
+  sneslib-db-disk:

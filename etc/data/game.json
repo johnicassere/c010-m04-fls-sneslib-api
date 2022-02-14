@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Super Mario World",
+    "release": "1990-11-21T00:00:00.511Z",
+    "summary": "Super Mario World is a 1990 platform game developed by Nintendo for the Super Nintendo Entertainment System (SNES). The story follows Mario's quest to save Princess Toadstool and Dinosaur Land from the series' antagonist Bowser and his minions, the Koopalings. The gameplay is similar to that of earlier Super Mario games: players control Mario or his brother Luigi through a series of levels in which the goal is to reach the goalpost at the end. Super Mario World introduced Yoshi, a dinosaur who can eat enemies, as well as gain abilities by eating the shells of Koopa Troopas.",
+    "imageUrl": "https://github.com/ramiabraham/cover-art-collection/blob/master/snes/addams_family_the_usa.jpg?raw=true"
+  },
+  {
+    "title": "Disney's Aladdin",
+    "release": "1993-11-21T00:00:00.511Z",
+    "summary": "Disney's Aladdin is a 1993 platform game developed and published by Capcom for the Super Nintendo Entertainment System, based on the 1992 animated Disney film of the same name. Disney's Aladdin is a 2D side-scrolling video game in which the player controls Aladdin and his monkey Abu. It was designed by Shinji Mikami.",
+    "imageUrl": "https://github.com/ramiabraham/cover-art-collection/blob/master/snes/aladdin_usa.jpg?raw=true"
+  },
+  {
+    "title": "Alien 3",
+    "release": "1992-10-01T00:00:00.511Z",
+    "summary": "Alien 3 is a side-scrolling run and gun in which the player controls Ellen Ripley, the film's main character, who progresses through the Fiorina 161 prison colony that was featured in the film. The player can jump, shoot, climb ladders, crawl through tunnels, open doors, and use elevators.",
+    "imageUrl": "https://github.com/ramiabraham/cover-art-collection/blob/master/snes/alien_3_usa.jpg?raw=true"
+  },
+  {
+    "title": "Donkey Kong Country",
+    "release": "1994-11-18T00:00:00.511Z",
+    "summary": "Donkey Kong Country is a 1994 platform game developed by Rare and published by Nintendo for the Super Nintendo Entertainment System (SNES). It is a reboot of Nintendo's Donkey Kong franchise and follows the gorilla Donkey Kong and his nephew Diddy Kong as they set out to recover their stolen banana hoard from King K. Rool and the Kremlings. In 40 side-scrolling levels, the player collects items, defeats enemies and bosses, and finds secrets. In the multiplayer modes, two players can work together cooperatively or race each other.",
+    "imageUrl": "https://github.com/ramiabraham/cover-art-collection/blob/master/snes/donkey_kong_country_usa_rev_2.jpg?raw=true"
+  },
+  {
+    "title": "Donkey Kong Country 2: Diddy's Kong Quest",
+    "release": "1995-11-21T00:00:00.511Z",
+    "summary": "Donkey Kong Country 2: Diddy's Kong Quest is a 1995 platform game developed by Rare and published by Nintendo for the Super Nintendo Entertainment System (SNES). It was released on 21 November 1995 in Japan, and in December 1995 in North America and Europe. It is the second instalment of the Donkey Kong Country series and the sequel to Donkey Kong Country (1994).",
+    "imageUrl": "https://github.com/ramiabraham/cover-art-collection/blob/master/snes/donkey_kong_country_2_-_diddys_kong_quest_usa_rev_1.jpg?raw=true"
+  },
+  {
+    "title": "Donkey Kong Country 3: Dixie Kong's Double Trouble!",
+    "release": "1996-11-18T00:00:00.511Z",
+    "summary": "Donkey Kong Country 3: Dixie Kong's Double Trouble! is a 1996 platform video game developed by Rare and published by Nintendo for the Super Nintendo Entertainment System (SNES). It was released on 18 November 1996, in North America, on 23 November 1996 in Japan, and on 13 December 1996 in Europe and Australia. It is the third instalment of the Donkey Kong Country series and serves as a direct sequel to Donkey Kong Country 2: Diddy's Kong Quest. It was also re-released for the Game Boy Advance (GBA) in 2005. The game was made available to download on the Wii's Virtual Console service in 2007, as well as for the Wii U's Virtual Console in 2014.",
+    "imageUrl": "https://github.com/ramiabraham/cover-art-collection/blob/master/snes/donkey_kong_country_3_-_dixie_kongs_double_trouble_usa.jpg?raw=true"
+  }
+]

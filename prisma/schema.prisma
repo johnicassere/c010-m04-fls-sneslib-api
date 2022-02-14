@@ -1,0 +1,80 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  id        String   @id @default(uuid())
+  email     String   @unique
+  firstName String
+  lastName  String
+  birthdate DateTime
+  imageUrl  String
+  bio       String
+  password  String
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+  role      Role     @default(USER)
+  reviews   Review[]
+
+  @@map("user")
+}
+
+model Game {
+  id        String    @id @default(uuid())
+  title     String
+  release   DateTime
+  summary   String
+  imageUrl  String
+  createdAt DateTime  @default(now())
+  updatedAt DateTime  @updatedAt
+  companies Company[]
+  genres    Genre[]
+  reviews   Review[]
+
+  @@map("game")
+}
+
+model Genre {
+  id        String   @id @default(uuid())
+  name      String
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+  games     Game[]
+
+  @@map("genre")
+}
+
+model Company {
+  id        String   @id @default(uuid())
+  name      String
+  logo      String
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+  games     Game[]
+
+  @@map("company")
+}
+
+model Review {
+  id        String   @id @default(uuid())
+  comment   String
+  vote      Float
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+  User      User?    @relation(fields: [userId], references: [id])
+  userId    String?
+  Game      Game?    @relation(fields: [gameId], references: [id])
+  gameId    String?
+
+  @@map("review")
+}
+
+enum Role {
+  USER
+  ADMIN
+}

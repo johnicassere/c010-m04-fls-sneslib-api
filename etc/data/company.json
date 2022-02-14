@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Rare",
+    "logo": "https://i0.wp.com/terminaldeinformacao.com/wp-content/uploads/2017/08/08-rareware.png?ssl=1"
+  },
+  {
+    "name": "Nintendo",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Nintendo_gray_logo.svg/200px-Nintendo_gray_logo.svg.png"
+  },
+  {
+    "name": "Virgin",
+    "logo": "https://thumbnails.pcgamingwiki.com/9/9e/Virgin_Interactive_logo.svg/300px-Virgin_Interactive_logo.svg.png"
+  },
+  {
+    "name": "Namco",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Namco_logo.svg/250px-Namco_logo.svg.png"
+  },
+  {
+    "name": "Bandai",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Logo_Bandai.svg/100px-Logo_Bandai.svg.png"
+  },
+  {
+    "name": "Capcom",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Capcom_logo.svg/220px-Capcom_logo.svg.png"
+  },
+  {
+    "name": "Argonaut Games",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Argonaut_software.png/150px-Argonaut_software.png"
+  },
+  {
+    "name": "Westwood Studios",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Westwood_Studios_1994.svg/220px-Westwood_Studios_1994.svg.png"
+  },
+  {
+    "name": "Tose",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e8/Tose_Software_logo.svg/200px-Tose_Software_logo.svg.png"
+  },
+  {
+    "name": "Compile",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Compile_logo.png/220px-Compile_logo.png"
+  },
+  {
+    "name": "Spike Chunsoft",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Spike_Chunsoft_logo.png/220px-Spike_Chunsoft_logo.png"
+  },
+  {
+    "name": "Square",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Square_Logo.svg/220px-Square_Logo.svg.png"
+  },
+  {
+    "name": "Konami",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Konami_4th_logo_1.svg/220px-Konami_4th_logo_1.svg.png"
+  }
+]

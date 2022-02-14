@@ -1,0 +1,22 @@
+[
+  {
+    "email": "isabella@gmail.com",
+    "firstName": "Isabella",
+    "lastName": "Nunes",
+    "birthdate": "1993-06-15T11:49:21.141Z",
+    "imageUrl": "https://files.cercomp.ufg.br/weby/up/183/o/12193656_1516786235305635_5143297021428177416_n.jpg",
+    "bio": "I'm a Software Engineer who love cats, dogs, nintendo, linux and data structures.",
+    "password": "Julinho2.0",
+    "passwordConfirmation": "Julinho2.0"
+  },
+  {
+    "email": "fran@gmail.com",
+    "firstName": "Francielly",
+    "lastName": "Freitas",
+    "birthdate": "1993-06-15T11:49:21.141Z",
+    "imageUrl": "https://files.cercomp.ufg.br/weby/up/183/o/12193656_1516786235305635_5143297021428177416_n.jpg",
+    "bio": "I'm a Software Engineer who love cats, dogs, nintendo, linux and data structures.",
+    "password": "Julinho2.0",
+    "passwordConfirmation": "Julinho2.0"
+  }
+]
